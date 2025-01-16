@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Azinhp
-- 👀 I’m interested in coding and back-end developement
-- 🌱 I’m currently learning php and laravel
-- 💞️ I’m looking to collaborate on back-end projects (django or laravel)
+- 👀 I’m interested in coding and artificial intelligence
+- 🌱 I’m currently learning aout AI, Machine Learning, and Natural Language Processing
+- 💞️ I’m looking to collaborate on NLP and speech processing related projects
 - 📫 these are 2 ways you can reach me -> Email: azin.hoomayoun@gmail.com
 - LinkedIn : Azin Homayounpour
 
